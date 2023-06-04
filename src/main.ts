@@ -33,3 +33,7 @@ function func(age: number, name: string) {
 
 func(34, 'Yossi');
 
+function func2() {
+    console.log('Another function')
+}
+
