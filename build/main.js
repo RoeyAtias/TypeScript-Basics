@@ -20,4 +20,6 @@ function func(age, name) {
     console.log(name + ' is ' + age + ' years old');
 }
 func(34, 'Yossi');
-
+function func2() {
+    console.log('Another function');
+}

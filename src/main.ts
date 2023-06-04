@@ -36,4 +36,3 @@ func(34, 'Yossi');
 function func2() {
     console.log('Another function')
 }
-
